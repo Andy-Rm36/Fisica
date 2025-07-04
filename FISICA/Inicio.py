@@ -14,7 +14,7 @@ components.html(
 st.markdown("""Equipo:
 - Andrea Romero García.
 - Jose de Jesus Cabrera Joaquin.
-- Hector Hugo""" )
+- Hector Hugo Bautista Martínez""" )
 
 st.markdown("""En esta página se encuentran 4 simuladores, los cuales calcularan 
 el campo magnetico de cada elemento dependiendo de los valores que se le ajusten en las barras, mostrando el
